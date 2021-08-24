@@ -4,7 +4,7 @@
 
 * [TypeScript](#1-TypeScript)
 * [Working of TypeScript](#2-Working-of-TypeScript)
-* [Type system](#3Type-system)
+* [Type System](#3-Type-System)
 
 
 ### 1 TypeScript
@@ -23,7 +23,7 @@
 TypeChecker is a special program that verifies that your code is typesafe
 Type safety means using types to prevent programs from doing invalid/unexpected things
 
-### 3 Type system
+### 3 Type System
 
 A set of rules that a typechecker uses to assign types to your program
 2 kinds of type systems are present on TypeScript
