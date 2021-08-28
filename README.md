@@ -238,7 +238,7 @@ obj.key2 = "Hello"; // key2 is readonly and not allowed to be reassigned
 
 <br>
 
-### 10. Type aliases and Unions
+### 10. Type aliases
 
 - Type alias is a user defined type which can be type literal or a type
 
