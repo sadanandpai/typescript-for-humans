@@ -1,12 +1,12 @@
 <h1 align="center">TypeScript for Humans</h1>
 <h3 align="center">Kick starter guide to writing TypeScript</h3>
 <div align="center">One of the most practical materials to start implementing TypeScript in no time. (⚠️ Repo is in progress)<br><br>
-  <p>
+<!--   <p>
     <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/typescript-for-humans?style=for-the-badge"></a>
     <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/typescript-for-humans?logoColor=green&style=for-the-badge"></a>
     <a name="contributions"><img src="https://img.shields.io/github/contributors/sadanandpai/typescript-for-humans?logoColor=green&style=for-the-badge"></a>
     <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/typescript-for-humans?style=for-the-badge"></a>
-  </p>
+  </p> -->
   Show your support by giving a ⭐ to this repo
 </div>
 
