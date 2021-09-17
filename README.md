@@ -1,4 +1,16 @@
-# TypeScript for Humans
+<h1 align="center">TypeScript for Humans</h1>
+<h3 align="center">Kick starter guide to writing TypeScript</h3>
+<div align="center">One of the most practical materials to start implementing TypeScript in no time. (⚠️ Repo is in progress)<br><br>
+  <p>
+    <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/typescript-for-humans?style=for-the-badge"></a>
+    <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/typescript-for-humans?logoColor=green&style=for-the-badge"></a>
+    <a name="contributions"><img src="https://img.shields.io/github/contributors/sadanandpai/typescript-for-humans?logoColor=green&style=for-the-badge"></a>
+    <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/typescript-for-humans?style=for-the-badge"></a>
+  </p>
+  Show your support by giving a ⭐ to this repo
+</div>
+
+---
 
 ### Table of Contents
 
@@ -15,6 +27,7 @@
 - [Arrays](#11-Arrays)
 - [Tuples](#12-Tuples)
 - [Enums](#13-Enums)
+- ℹ️ More coming soon
 
 ### 1. What is TypeScript
 
@@ -369,3 +382,5 @@ const language = Lanugage.French; // language will be assigned with value 2 in c
 ```
 
 👉&nbsp;&nbsp;&nbsp;String Enums are useful. But numeric Enums have problems and leak bugs. So the usage of Enums are not recommended in general unless it is String Enums
+  
+ℹ️ More coming soon
